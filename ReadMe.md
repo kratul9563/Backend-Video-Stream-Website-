@@ -1,4 +1,4 @@
-# Project in a video streaming website like YOU-TUBE
+# Project in a Video Streaming Website like YOU-TUBE
 
 
 backend with javascript
